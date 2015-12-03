@@ -32,6 +32,10 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"PlainTasks",
+		"Rust",
+		"Rust Share",
+		"RustAutoComplete",
+		"RustCodeFormatter",
 		"Sass",
 		"SASS Snippets",
 		"SCSS",
@@ -44,7 +48,9 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-rustc",
 		"SublimeLinter-contrib-scss-lint",
-		"SublimeREPL"
+		"SublimeREPL",
+		"TOML"
 	]
 }
