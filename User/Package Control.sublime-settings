@@ -23,7 +23,12 @@
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
+		"Icon Fonts",
 		"Jade",
+		"JavaScript Completions",
+		"JavaScript Refactor",
+		"JavaScript Ultimate",
+		"JavaScriptNext - ES6 Syntax",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"LiveReload",
@@ -32,6 +37,7 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"PlainTasks",
+		"Pretty YAML",
 		"Rust",
 		"Rust Share",
 		"RustAutoComplete",
@@ -50,7 +56,10 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-rustc",
 		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pydocstyle",
 		"SublimeREPL",
-		"TOML"
+		"TOML",
+		"WakaTime"
 	]
 }
